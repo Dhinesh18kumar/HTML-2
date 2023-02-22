@@ -1,0 +1,21 @@
+nav
+{
+padding-left : 60%;
+}
+body 
+{
+margin: 5%;
+font-size: x-large;
+background-image: url("aaa.jpg");
+background-size:cover;
+}
+a
+{
+    padding-right : 5%;
+}
+img{
+    padding: 150px;
+    margin: 30px;
+    border-radius: 400px;
+    margin-left: 10px;
+}
